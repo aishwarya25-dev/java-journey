@@ -1,7 +1,7 @@
 # Taking Input in Java
 
 When building Java programs, we often need to get information from the user. Java provides multiple ways to take input, and each method is useful in different situations.
-<br>
+<br><br>
 I have listed 3 ways to take input in java:
 
 ## 1. Scanner Class
@@ -13,8 +13,6 @@ Scanner is the most commonly used input method in Java. It is easy to learn and 
 - Beginner-friendly
 - Supports multiple data types
 
----
-
 ## 2. Command Line Arguments
 
 Command Line Arguments allow input to be passed when the program starts running. Instead of asking the user for input during execution, the values are provided through the command line.
@@ -23,8 +21,6 @@ Command Line Arguments allow input to be passed when the program starts running.
 - No interactive input required
 - Useful for automation
 - Easy to pass startup values
-
----
 
 ## 3. BufferedReader
 
@@ -35,8 +31,6 @@ BufferedReader is another way to take input in Java. It is faster than Scanner b
 - Efficient for large inputs
 - Common in competitive programming
 
----
-
 ## Quick Comparison
 
 | Method | Easy to Learn | Speed | Common Use |
@@ -44,7 +38,6 @@ BufferedReader is another way to take input in Java. It is faster than Scanner b
 | Scanner | Yes | Moderate | General input |
 | Command Line Arguments | Yes | Fast | Startup parameters |
 | BufferedReader | Moderate | Fast | Large inputs |
-| Console Class | Easy | Fast | Password input |
 
 ## Conclusion
 
