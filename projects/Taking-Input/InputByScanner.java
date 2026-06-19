@@ -1,6 +1,8 @@
+// Taking input by Scanner class
+
 import java.util.Scanner;
 
-public class Input_By_Scanner_class {
+public class InputByScanner {
 
     public static void main(String[] args)
     {
