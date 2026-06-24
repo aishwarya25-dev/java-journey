@@ -1,6 +1,8 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk)
 
 # java-journey
+Author : Aishwarya ♡
+<br><hr>
 A growing collection of Java practice projects exploring core programming fundamentals.
 
 ## 📌 About
