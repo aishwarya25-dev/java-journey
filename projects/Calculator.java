@@ -1,4 +1,4 @@
-// User Input Simple Calculator
+// User Input Simple Calculator.
 
 import java.util.Scanner;
 
