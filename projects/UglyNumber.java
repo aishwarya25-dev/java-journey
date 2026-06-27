@@ -1,4 +1,12 @@
-// Ugly Number :
+/*  
+Ugly Number :An Ugly Number is a positive number, whose prime factors are only 2, 3, and 5.
+
+Rule:
+ Keep dividing the number by 2, 3, and 5 as much as possible:
+
+ - If the final result becomes 1, it is an ugly number.
+ - Otherwise, it is not an ugly number.
+*/
 
 import java.util.Scanner;
 
