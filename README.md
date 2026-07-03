@@ -14,6 +14,26 @@ This repo is where I practice and document my journey learning Java — from bas
 - **Language:** Java (JDK 17+)
 - **IDE:** IntelliJ IDEA / VS Code
 
+ ## Projects
+
+| Project |
+|---------|
+| [BMI Calculator](projects/BMICalculator.java) | 
+| [Binary Search](projects/BinarySearch.java) |
+| [Calculator](projects/Calculator.java) |
+| [Calculator Using interface](projects/CalculatorUsingInterface.java) |
+| [Count Down](projects/CountDown.java) |
+| [Driving License Eligibility](projects/DrivingLicenseEligibilityChecker.java) |
+| [Factorial](projects/Factorial.java) |
+| [Login System](projects/LoginSystem.java) |
+| [Lowest Age Calculator](projects/LowestAge.java) |
+| [Multiplictaion Table](projects/MultiplicationTable.java) |
+| [Palindrome](projects/Palindrome.java) |
+| [Star Patterns](projects/StarPattern.java) |
+| [Student Grade System](projects/StudentGradeSystem.java) |
+| [Swap Two Number](projects/SwapTwoNumbers.java) |
+| [Ugly Number](projects/UglyNumber.java) |
+
 ## 📖 What I'm Learning
 
 This repo helps me practice:
