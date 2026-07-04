@@ -29,6 +29,7 @@ This repo is where I practice and document my journey learning Java — from bas
 | [Lowest Age Calculator](projects/LowestAge.java) |
 | [Multiplictaion Table](projects/MultiplicationTable.java) |
 | [Palindrome](projects/Palindrome.java) |
+| [Reverse a String](projects/Reverse_A_String.java)|
 | [Star Patterns](projects/StarPattern.java) |
 | [Student Grade System](projects/StudentGradeSystem.java) |
 | [Swap Two Number](projects/SwapTwoNumbers.java) |
